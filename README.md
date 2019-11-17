@@ -3,7 +3,7 @@ pip install -r requirements.txt
 
 ## How it works:
 
-Firstly upload an image of a person X with his/her name as a filename to image folder. 
+Firstly upload an image of a person X with his/her name as a filename to 'upload here' folder. 
 Than execute the code.
 
 The camera of your device will open and by pressing 'c' you can take a picture of person Y.
