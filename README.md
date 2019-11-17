@@ -4,7 +4,7 @@ pip install -r requirements.txt
 ## How it works:
 
 Firstly upload an image of a person X with his/her name as a filename to image folder. 
-han execute the code.
+Than execute the code.
 
 The camera of your device will open and by pressing 'c' you can take a picture of person Y.
 The model will do "one shot learning" and will predict the similarity of person X and Y.
