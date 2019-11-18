@@ -17,3 +17,5 @@ In the end it will declare whether its person X or not
 
 Data is situated in Dataset folder. 
 It is spleated into training and testing sets each containing different folders of people faces. In each folder there are faces of one person in different lightings and emotions. 
+
+Note: training has been done on GPU.
