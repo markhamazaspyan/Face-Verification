@@ -3,4 +3,4 @@ matplotlib==3.0.3
 torchvision==0.4.2
 opencv_python==4.1.1.26
 torch==1.0.1.post2
-Pillow==6.2.1
+Pillow==8.2.0
